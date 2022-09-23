@@ -21,7 +21,7 @@ Goods Goods::Init(string name, string registrationDate, int price, int amount, i
 }
 
 Goods Goods::Init(string name, double price, int amount) {
-    return Init(name, NULL, price, amount, NULL);
+    return Init(name, "", price, amount, 0);
 }
 
 void Goods::Read() {

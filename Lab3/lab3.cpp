@@ -10,10 +10,13 @@ int main() {
     goods.changePrice(78.21);
     cout << goods.toString() << endl;
 
-    goods.Read();
+//    goods.Read();
+//    goods.Display();
+//    goods.changeAmount(-2);
+//    cout << goods.calculateGoodsCost();
+
+    goods = goods.Init("car", 3789.32, 12);
     goods.Display();
-    goods.changeAmount(-2);
-    cout << goods.calculateGoodsCost();
 
     return 0;
 }
