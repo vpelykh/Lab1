@@ -4,18 +4,17 @@
 using namespace std;
 
 int main() {
-    Goods goods;
-    goods = goods.Init("car", "22/12/2018", 3789, 12, 456950);
+    Goods goods = Goods("car", "22/12/2018", 3789, 12, 456950);
     goods.Display();
     goods.changePrice(78.21);
     cout << goods.toString() << endl;
-
-    goods.Read();
-    goods.Display();
     goods.changeAmount(-2);
-    cout << goods.calculateGoodsCost();
+    cout << goods.calculateGoodsCost() << endl;
 
-    goods = goods.Init("car", 3789.32, 12);
+    goods = Goods("car", 3789.32, 12);
+    goods.Display();
+
+    goods = Goods();
     goods.Display();
 
     return 0;
