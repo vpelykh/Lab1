@@ -5,23 +5,28 @@
 using namespace std;
 using std::string;
 
-Goods Goods::Init(string name, string registrationDate, double price, int amount, int invoiceNumber) {
-    Goods goodsInstance;
-    goodsInstance.name = name;
-    goodsInstance.registrationDate = registrationDate;
-    goodsInstance.price = price;
-    goodsInstance.amount = amount;
-    goodsInstance.invoiceNumber = invoiceNumber;
-
-    return goodsInstance;
+Goods::Goods(string _name, string _registrationDate, double _price, int _amount, int _invoiceNumber) {
+    name = _name;
+    registrationDate = _registrationDate;
+    price = _price;
+    amount = _amount;
+    invoiceNumber = _invoiceNumber;
 }
 
-Goods Goods::Init(string name, string registrationDate, int price, int amount, int invoiceNumber) {
-    return Init(name, registrationDate, (double) price, amount, invoiceNumber);
+Goods::Goods(string _name, double _price, int _amount) {
+    name = _name;
+    registrationDate = "";
+    price = _price;
+    amount = _amount;
+    invoiceNumber = 0;
 }
 
-Goods Goods::Init(string name, double price, int amount) {
-    return Init(name, "", price, amount, 0);
+Goods::Goods() {
+    name = "";
+    registrationDate = "";
+    price = 0;
+    amount = 0;
+    invoiceNumber = 0;
 }
 
 void Goods::Read() {

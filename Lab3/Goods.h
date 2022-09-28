@@ -9,9 +9,9 @@ class Goods {
     int amount, invoiceNumber;
     double price;
 public:
-    Goods Init(string name, string registrationDate, double price, int amount, int invoiceNumber);
-    Goods Init(string name, string registrationDate, int price, int amount, int invoiceNumber);
-    Goods Init(string name, double price, int amount);
+    Goods(string name, string registrationDate, double price, int amount, int invoiceNumber);
+    Goods(string name, double price, int amount);
+    Goods();
     void Read();
     void Display();
     string toString();
