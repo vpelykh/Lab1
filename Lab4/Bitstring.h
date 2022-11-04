@@ -1,14 +1,34 @@
-//
-// Created by Админ on 03.10.2022.
-//
-
-#ifndef OOP_LABS_BITSTRING_H
-#define OOP_LABS_BITSTRING_H
-
-
-class Bitstring {
-
-};
-
-
-#endif //OOP_LABS_BITSTRING_H
+#pragma once
+#include <iostream>
+/*
+* � ��� ���������, ��� ���������� � �������� ��������, ����'������
+������� ���� ���������� �������� ������:
+� ����� ������������ Init();
+� ����� �������� �� ��������� Read();
+� ����� �������� �� ����� Display();
+� ������������ � ����� toString().
+*/
+//17. �������� ���� Bitstring ��� ������ � 64 - ������� �������.������� �����
+//������� ���� ������������ ����� ������ ���� unsigned long.������� ����
+//���������� �� ���������� �������� ��� ������ � ����� : and, or , xor, not.
+//���������� ���� ���� shiftleft() � ���� ������ shiftright() �� ������ �������
+//���.
+#include <string>
+using namespace std;
+class Bitstring
+{
+public:
+    Bitstring();      //���������� ���� ������ �� ���������
+    class Error {};             //�������� �� ������
+    int SizeOfBitstring();     //������ �������� ������
+    void Read();                //���� � ����������
+    void Display();             //����� �� �����
+    char  toString();
+    Bitstring(unsigned long *one, unsigned long two);
+    string rShift(unsigned long n);
+    string lShift(unsigned long n);
+private:
+    unsigned long *unit;       //��� �������� ���� �����
+    unsigned long count;   //��� �������� ������� �����
+}
+;
