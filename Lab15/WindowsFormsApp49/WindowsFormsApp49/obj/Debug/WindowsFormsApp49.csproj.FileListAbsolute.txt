@@ -1,0 +1,9 @@
+C:\Users\Anton\source\repos\WindowsFormsApp49\WindowsFormsApp49\bin\Debug\WindowsFormsApp49.exe.config
+C:\Users\Anton\source\repos\WindowsFormsApp49\WindowsFormsApp49\bin\Debug\WindowsFormsApp49.exe
+C:\Users\Anton\source\repos\WindowsFormsApp49\WindowsFormsApp49\bin\Debug\WindowsFormsApp49.pdb
+C:\Users\Anton\source\repos\WindowsFormsApp49\WindowsFormsApp49\obj\Debug\WindowsFormsApp49.Form1.resources
+C:\Users\Anton\source\repos\WindowsFormsApp49\WindowsFormsApp49\obj\Debug\WindowsFormsApp49.Properties.Resources.resources
+C:\Users\Anton\source\repos\WindowsFormsApp49\WindowsFormsApp49\obj\Debug\WindowsFormsApp49.csproj.GenerateResource.cache
+C:\Users\Anton\source\repos\WindowsFormsApp49\WindowsFormsApp49\obj\Debug\WindowsFormsApp49.csproj.CoreCompileInputs.cache
+C:\Users\Anton\source\repos\WindowsFormsApp49\WindowsFormsApp49\obj\Debug\WindowsFormsApp49.exe
+C:\Users\Anton\source\repos\WindowsFormsApp49\WindowsFormsApp49\obj\Debug\WindowsFormsApp49.pdb

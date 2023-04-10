@@ -1,0 +1,10 @@
+C:\Users\Anton\source\repos\WindowsFormsApp47\WindowsFormsApp47\bin\Debug\WindowsFormsApp47.exe.config
+C:\Users\Anton\source\repos\WindowsFormsApp47\WindowsFormsApp47\bin\Debug\WindowsFormsApp47.exe
+C:\Users\Anton\source\repos\WindowsFormsApp47\WindowsFormsApp47\bin\Debug\WindowsFormsApp47.pdb
+C:\Users\Anton\source\repos\WindowsFormsApp47\WindowsFormsApp47\obj\Debug\WindowsFormsApp47.csproj.AssemblyReference.cache
+C:\Users\Anton\source\repos\WindowsFormsApp47\WindowsFormsApp47\obj\Debug\WindowsFormsApp47.Form1.resources
+C:\Users\Anton\source\repos\WindowsFormsApp47\WindowsFormsApp47\obj\Debug\WindowsFormsApp47.Properties.Resources.resources
+C:\Users\Anton\source\repos\WindowsFormsApp47\WindowsFormsApp47\obj\Debug\WindowsFormsApp47.csproj.GenerateResource.cache
+C:\Users\Anton\source\repos\WindowsFormsApp47\WindowsFormsApp47\obj\Debug\WindowsFormsApp47.csproj.CoreCompileInputs.cache
+C:\Users\Anton\source\repos\WindowsFormsApp47\WindowsFormsApp47\obj\Debug\WindowsFormsApp47.exe
+C:\Users\Anton\source\repos\WindowsFormsApp47\WindowsFormsApp47\obj\Debug\WindowsFormsApp47.pdb
