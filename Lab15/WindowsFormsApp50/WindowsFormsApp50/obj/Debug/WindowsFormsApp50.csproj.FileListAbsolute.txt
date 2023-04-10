@@ -1,0 +1,10 @@
+C:\Users\Anton\source\repos\WindowsFormsApp50\WindowsFormsApp50\bin\Debug\WindowsFormsApp50.exe.config
+C:\Users\Anton\source\repos\WindowsFormsApp50\WindowsFormsApp50\bin\Debug\WindowsFormsApp50.exe
+C:\Users\Anton\source\repos\WindowsFormsApp50\WindowsFormsApp50\bin\Debug\WindowsFormsApp50.pdb
+C:\Users\Anton\source\repos\WindowsFormsApp50\WindowsFormsApp50\obj\Debug\WindowsFormsApp50.csproj.AssemblyReference.cache
+C:\Users\Anton\source\repos\WindowsFormsApp50\WindowsFormsApp50\obj\Debug\WindowsFormsApp50.Form1.resources
+C:\Users\Anton\source\repos\WindowsFormsApp50\WindowsFormsApp50\obj\Debug\WindowsFormsApp50.Properties.Resources.resources
+C:\Users\Anton\source\repos\WindowsFormsApp50\WindowsFormsApp50\obj\Debug\WindowsFormsApp50.csproj.GenerateResource.cache
+C:\Users\Anton\source\repos\WindowsFormsApp50\WindowsFormsApp50\obj\Debug\WindowsFormsApp50.csproj.CoreCompileInputs.cache
+C:\Users\Anton\source\repos\WindowsFormsApp50\WindowsFormsApp50\obj\Debug\WindowsFormsApp50.exe
+C:\Users\Anton\source\repos\WindowsFormsApp50\WindowsFormsApp50\obj\Debug\WindowsFormsApp50.pdb
