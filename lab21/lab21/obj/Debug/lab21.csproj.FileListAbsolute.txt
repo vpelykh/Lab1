@@ -1,0 +1,17 @@
+D:\visual studio\prodject\lab21\lab21\bin\Debug\lab21.exe.config
+D:\visual studio\prodject\lab21\lab21\bin\Debug\lab21.exe
+D:\visual studio\prodject\lab21\lab21\bin\Debug\lab21.pdb
+D:\visual studio\prodject\lab21\lab21\obj\Debug\lab21.csproj.AssemblyReference.cache
+D:\visual studio\prodject\lab21\lab21\obj\Debug\lab21.csproj.SuggestedBindingRedirects.cache
+D:\visual studio\prodject\lab21\lab21\obj\Debug\lab21.blank.resources
+D:\visual studio\prodject\lab21\lab21\obj\Debug\lab21.frmmain.resources
+D:\visual studio\prodject\lab21\lab21\obj\Debug\lab21.Properties.Resources.resources
+D:\visual studio\prodject\lab21\lab21\obj\Debug\lab21.csproj.GenerateResource.cache
+D:\visual studio\prodject\lab21\lab21\obj\Debug\lab21.csproj.CoreCompileInputs.cache
+D:\visual studio\prodject\lab21\lab21\obj\Debug\lab21.exe
+D:\visual studio\prodject\lab21\lab21\obj\Debug\lab21.pdb
+D:\visual studio\prodject\lab21\lab21\obj\Debug\lab21.FindForm.resources
+D:\visual studio\prodject\lab21\lab21\obj\Debug\lab21.About.resources
+C:\Users\Anton\source\repos\lab21\lab21\obj\Debug\lab21.csproj.AssemblyReference.cache
+C:\Users\Anton\source\repos\lab21\lab21\obj\Debug\lab21.exe
+C:\Users\Anton\source\repos\lab21\lab21\obj\Debug\lab21.pdb
