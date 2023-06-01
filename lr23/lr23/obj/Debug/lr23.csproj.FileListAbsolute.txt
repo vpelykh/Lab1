@@ -1,0 +1,10 @@
+C:\Users\Anton\source\Repos\lr23\lr23\bin\Debug\lr23.exe.config
+C:\Users\Anton\source\Repos\lr23\lr23\bin\Debug\lr23.exe
+C:\Users\Anton\source\Repos\lr23\lr23\bin\Debug\lr23.pdb
+C:\Users\Anton\source\Repos\lr23\lr23\obj\Debug\lr23.csproj.AssemblyReference.cache
+C:\Users\Anton\source\Repos\lr23\lr23\obj\Debug\lr23.Form1.resources
+C:\Users\Anton\source\Repos\lr23\lr23\obj\Debug\lr23.Properties.Resources.resources
+C:\Users\Anton\source\Repos\lr23\lr23\obj\Debug\lr23.csproj.GenerateResource.cache
+C:\Users\Anton\source\Repos\lr23\lr23\obj\Debug\lr23.csproj.CoreCompileInputs.cache
+C:\Users\Anton\source\Repos\lr23\lr23\obj\Debug\lr23.exe
+C:\Users\Anton\source\Repos\lr23\lr23\obj\Debug\lr23.pdb
