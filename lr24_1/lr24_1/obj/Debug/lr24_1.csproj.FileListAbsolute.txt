@@ -1,0 +1,10 @@
+C:\Users\Anton\source\Repos\lr24_1\lr24_1\bin\Debug\lr24_1.exe.config
+C:\Users\Anton\source\Repos\lr24_1\lr24_1\bin\Debug\lr24_1.exe
+C:\Users\Anton\source\Repos\lr24_1\lr24_1\bin\Debug\lr24_1.pdb
+C:\Users\Anton\source\Repos\lr24_1\lr24_1\obj\Debug\lr24_1.csproj.AssemblyReference.cache
+C:\Users\Anton\source\Repos\lr24_1\lr24_1\obj\Debug\lr24_1.Form1.resources
+C:\Users\Anton\source\Repos\lr24_1\lr24_1\obj\Debug\lr24_1.Properties.Resources.resources
+C:\Users\Anton\source\Repos\lr24_1\lr24_1\obj\Debug\lr24_1.csproj.GenerateResource.cache
+C:\Users\Anton\source\Repos\lr24_1\lr24_1\obj\Debug\lr24_1.csproj.CoreCompileInputs.cache
+C:\Users\Anton\source\Repos\lr24_1\lr24_1\obj\Debug\lr24_1.exe
+C:\Users\Anton\source\Repos\lr24_1\lr24_1\obj\Debug\lr24_1.pdb
