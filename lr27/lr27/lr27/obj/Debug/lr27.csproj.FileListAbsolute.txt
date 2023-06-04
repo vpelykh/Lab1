@@ -1,0 +1,10 @@
+C:\Users\Anton\source\Repos\lr27\lr27\bin\Debug\lr27.exe.config
+C:\Users\Anton\source\Repos\lr27\lr27\bin\Debug\lr27.exe
+C:\Users\Anton\source\Repos\lr27\lr27\bin\Debug\lr27.pdb
+C:\Users\Anton\source\Repos\lr27\lr27\obj\Debug\lr27.csproj.AssemblyReference.cache
+C:\Users\Anton\source\Repos\lr27\lr27\obj\Debug\lr27.Form1.resources
+C:\Users\Anton\source\Repos\lr27\lr27\obj\Debug\lr27.Properties.Resources.resources
+C:\Users\Anton\source\Repos\lr27\lr27\obj\Debug\lr27.csproj.GenerateResource.cache
+C:\Users\Anton\source\Repos\lr27\lr27\obj\Debug\lr27.csproj.CoreCompileInputs.cache
+C:\Users\Anton\source\Repos\lr27\lr27\obj\Debug\lr27.exe
+C:\Users\Anton\source\Repos\lr27\lr27\obj\Debug\lr27.pdb
