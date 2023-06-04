@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ueAFv2Q83wDjrRy3r4ITkI67HLeUuea3kNqqg1bzy13xAhCRy2NaXEh57DZUsOLmvxGXadGKyJE8upR7MuTZUg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Anton\\source\\Repos\\lr25\\lr25\\lr25\\lr25.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anton\\.nuget\\packages\\mysqlconnector\\2.2.6\\mysqlconnector.2.2.6.nupkg.sha512"
+  ],
+  "logs": []
+}
