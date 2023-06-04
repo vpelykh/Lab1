@@ -1,0 +1,10 @@
+C:\Users\Anton\source\Repos\lr31\lr31\bin\Debug\lr31.exe.config
+C:\Users\Anton\source\Repos\lr31\lr31\bin\Debug\lr31.exe
+C:\Users\Anton\source\Repos\lr31\lr31\bin\Debug\lr31.pdb
+C:\Users\Anton\source\Repos\lr31\lr31\obj\Debug\lr31.csproj.AssemblyReference.cache
+C:\Users\Anton\source\Repos\lr31\lr31\obj\Debug\lr31.Form1.resources
+C:\Users\Anton\source\Repos\lr31\lr31\obj\Debug\lr31.Properties.Resources.resources
+C:\Users\Anton\source\Repos\lr31\lr31\obj\Debug\lr31.csproj.GenerateResource.cache
+C:\Users\Anton\source\Repos\lr31\lr31\obj\Debug\lr31.csproj.CoreCompileInputs.cache
+C:\Users\Anton\source\Repos\lr31\lr31\obj\Debug\lr31.exe
+C:\Users\Anton\source\Repos\lr31\lr31\obj\Debug\lr31.pdb
