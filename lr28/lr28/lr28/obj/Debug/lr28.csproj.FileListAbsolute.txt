@@ -1,0 +1,10 @@
+C:\Users\Anton\source\Repos\lr28\lr28\bin\Debug\lr28.exe.config
+C:\Users\Anton\source\Repos\lr28\lr28\bin\Debug\lr28.exe
+C:\Users\Anton\source\Repos\lr28\lr28\bin\Debug\lr28.pdb
+C:\Users\Anton\source\Repos\lr28\lr28\obj\Debug\lr28.csproj.AssemblyReference.cache
+C:\Users\Anton\source\Repos\lr28\lr28\obj\Debug\lr28.Form1.resources
+C:\Users\Anton\source\Repos\lr28\lr28\obj\Debug\lr28.Properties.Resources.resources
+C:\Users\Anton\source\Repos\lr28\lr28\obj\Debug\lr28.csproj.GenerateResource.cache
+C:\Users\Anton\source\Repos\lr28\lr28\obj\Debug\lr28.csproj.CoreCompileInputs.cache
+C:\Users\Anton\source\Repos\lr28\lr28\obj\Debug\lr28.exe
+C:\Users\Anton\source\Repos\lr28\lr28\obj\Debug\lr28.pdb
