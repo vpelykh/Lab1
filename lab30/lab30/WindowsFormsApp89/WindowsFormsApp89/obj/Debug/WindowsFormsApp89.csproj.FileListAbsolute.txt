@@ -1,0 +1,10 @@
+C:\Users\Anton\source\Repos\WindowsFormsApp89\WindowsFormsApp89\bin\Debug\WindowsFormsApp89.exe.config
+C:\Users\Anton\source\Repos\WindowsFormsApp89\WindowsFormsApp89\bin\Debug\WindowsFormsApp89.exe
+C:\Users\Anton\source\Repos\WindowsFormsApp89\WindowsFormsApp89\bin\Debug\WindowsFormsApp89.pdb
+C:\Users\Anton\source\Repos\WindowsFormsApp89\WindowsFormsApp89\obj\Debug\WindowsFormsApp89.csproj.AssemblyReference.cache
+C:\Users\Anton\source\Repos\WindowsFormsApp89\WindowsFormsApp89\obj\Debug\WindowsFormsApp89.Form1.resources
+C:\Users\Anton\source\Repos\WindowsFormsApp89\WindowsFormsApp89\obj\Debug\WindowsFormsApp89.Properties.Resources.resources
+C:\Users\Anton\source\Repos\WindowsFormsApp89\WindowsFormsApp89\obj\Debug\WindowsFormsApp89.csproj.GenerateResource.cache
+C:\Users\Anton\source\Repos\WindowsFormsApp89\WindowsFormsApp89\obj\Debug\WindowsFormsApp89.csproj.CoreCompileInputs.cache
+C:\Users\Anton\source\Repos\WindowsFormsApp89\WindowsFormsApp89\obj\Debug\WindowsFormsApp89.exe
+C:\Users\Anton\source\Repos\WindowsFormsApp89\WindowsFormsApp89\obj\Debug\WindowsFormsApp89.pdb
